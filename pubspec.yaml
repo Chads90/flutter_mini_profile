@@ -1,0 +1,31 @@
+name: flutter_mini_profile
+description: A simple Flutter mini profile app.
+publish_to: "none" # Jangan publikasikan ke pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Tambahkan dependency optional kalau mau pakai ikon tambahan
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    # Pastikan path dan nama file gambar sesuai (jpg/png)
+    - assets/images/profile.jpg
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
