@@ -15,7 +15,7 @@ A simple Flutter app showing a personal profile card.
 - Tema global dengan **ThemeData** dan **custom font (Poppins)**
 
 ## 🖼️ Screenshot
-![App Screenshot](screenshot_aplikasi/hasil_screenshot.png)
+![App Screenshot](screenshot_aplikasi/hasil_screenshot.jpg)
 
 ## ⚙️ How to Run
 1. Clone repository ini  
