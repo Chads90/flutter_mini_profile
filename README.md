@@ -22,9 +22,7 @@ A simple Flutter app showing a personal profile card.
 ## 🖼️ Screenshot
 Berikut tampilan hasil aplikasi:
 
-![App Screenshot](assets/screenshot_aplikasi/screenshot.png)
-
-*(Jika gambar tidak muncul, pastikan file screenshot kamu benar-benar bernama `screenshot.png` dan berada di dalam folder `assets/screenshot_aplikasi/`.)*
+![App Screenshot](assets/screenshot_aplikasi/screenshot.jpg)
 
 ---
 
