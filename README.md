@@ -1,16 +1,21 @@
-# flutter_mini_profile
+# 📱 Mini Profile App (Flutter)
 
-A new Flutter project.
+A simple Flutter app showing a personal profile card.
 
-## Getting Started
+## 👤 Profile Info
+- **Name:** Rosyad  
+- **University:** Universitas Teknologi Bandung  
+- **Email:** artchads@gmail.com  
 
-This project is a starting point for a Flutter application.
+## 🧩 App Features
+- Menggunakan kombinasi widget dasar: **Text, Image, Icon**
+- Menggunakan layout widget: **Column**
+- Menggunakan **Container** untuk styling
+- Menggunakan **Card** dan **ListTile** untuk informasi kontak
+- Tema global dengan **ThemeData** dan **custom font (Poppins)**
 
-A few resources to get you started if this is your first Flutter project:
+## 🖼️ Screenshot
+![App Screenshot](screenshot_aplikasi/hasil_screenshot.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ How to Run
+1. Clone repository ini  
