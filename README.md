@@ -22,7 +22,7 @@ A simple Flutter app showing a personal profile card.
 ## 🖼️ Screenshot
 Berikut tampilan hasil aplikasi:
 
-![App Screenshot](assets/screenshot_aplikasi/screenshot.jpg)
+![App Screenshot](assets/screenshot_aplikasi/hasil_screenshot.jpg)
 
 ---
 
